@@ -1,0 +1,9 @@
+openai
+ttkbootstrap
+whisper
+langchain
+pydub
+ffmpeg-python
+ffprobe
+appdirs
+faster-whisper

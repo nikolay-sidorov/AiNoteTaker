@@ -1,0 +1,13 @@
+env/
+.env
+dist/
+__pycache__/
+MODEL_DIR/
+audios/
+build/
+LegacyModules/
+autoNote.xcodeproj/
+note.html
+note.md
+test.txt
+.DS_Store

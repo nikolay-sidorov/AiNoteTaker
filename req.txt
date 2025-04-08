@@ -1,0 +1,11 @@
+-U openai-whisper
+openai
+nltk
+ttkbootstrap
+whisper
+langchain
+pydub
+ffmpeg
+#ffprobe
+appdirs
+faster-whisper
