@@ -10,21 +10,21 @@ Features
 	•	🔧 Modular Design: Structured codebase with separate modules for each functionality. ￼ ￼
 
 Installation
-	1.	Clone the Repository:
+1.	Clone the Repository:
 
-git clone https://github.com/nikolay-sidorov/AiNoteTaker.git
-cd AiNoteTaker
-
-
-	2.	Create a Virtual Environment (Optional but Recommended):
-
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+`git clone https://github.com/nikolay-sidorov/AiNoteTaker.git
+cd AiNoteTaker`
 
 
-	3.	Install Dependencies:
+2.	Create a Virtual Environment (Optional but Recommended):
 
-pip install -r req.txt
+`python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate`
+
+
+3.	Install Dependencies:
+
+`pip install -r req.txt`
 
 
 
